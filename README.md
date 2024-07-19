@@ -6,20 +6,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaogithubooo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 [![github](https://img.shields.io/badge/github-limou3434-red)](https://github.com/xiaogithubooo)
 [![gitee](https://img.shields.io/badge/gitee-limou3434-orange)](https://gitee.com/limou3434)
