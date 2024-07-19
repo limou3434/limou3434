@@ -1,6 +1,7 @@
 <div id="title" align=center>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+AU+VIC+WA+NT+Hand&weight=500&size=25&pause=1000&color=7351B6CD&center=true&random=true&width=435&lines=limou3434;welcome+your+visit)](https://git.io/typing-svg)
+
+<p>我是技术狂热者 limou3434</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaogithubooo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
