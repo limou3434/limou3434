@@ -12,10 +12,6 @@
 [![CSDN](https://img.shields.io/badge/CSDN-limou3434-yellow)](https://blog.csdn.net/m0_73168361?spm=1000.2115.3001.5343)
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-limou3434-green)](https://www.zhihu.com/people/limou3434)
 
-![](https://img.shields.io/badge/爱好-技术-cyan)
-![](https://img.shields.io/badge/讨厌-随意-blue) 
-![](https://img.shields.io/badge/性格-阴角-purple)
-
 <img
   align=""
   height="137px"
@@ -25,6 +21,11 @@
   align=""
   height="137px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaogithubooo&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+![](https://img.shields.io/badge/爱好-技术-cyan)
+![](https://img.shields.io/badge/讨厌-随意-blue) 
+![](https://img.shields.io/badge/性格-阴角-purple)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 ![Visitor Count](https://profile-counter.glitch.me/xiaogithubooo/count.svg)
 
