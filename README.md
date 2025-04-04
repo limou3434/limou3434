@@ -27,7 +27,7 @@
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,go,java,spring,linux,vim,git,docker,kubernetes,redis,mysql,nginx" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,go,nodejs,java,python,spring,flask,linux,vim,git,docker,kubernetes,redis,mysql,nginx,elasticsearch" />
     </a>
   </p>
 
