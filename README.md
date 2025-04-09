@@ -33,7 +33,7 @@
     </a>
   </p>
 
-  [![github.io](https://img.shields.io/badge/github-limou3434-red)](https://limou3434.github.io/work-blog-website/)
+  [![github](https://img.shields.io/badge/github-limou3434-red)](https://limou3434.github.io/work-blog-website/)
   [![github](https://img.shields.io/badge/github-limou3434-orange)](https://github.com/limou3434)
   [![gitee](https://img.shields.io/badge/gitee-limou3434-blue)](https://gitee.com/limou3434)
   [![CSDN](https://img.shields.io/badge/CSDN-limou3434-yellow)](https://blog.csdn.net/m0_73168361?spm=1000.2115.3001.5343)
