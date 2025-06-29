@@ -17,8 +17,6 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=limou3434&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"
   />
 
-
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/limou3434/limou3434/93c0500586395e0610dce74c5f77c73bbb360022/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/limou3434/limou3434/93c0500586395e0610dce74c5f77c73bbb360022/github-contribution-grid-snake.svg" />
@@ -33,6 +31,8 @@
     </a>
   </p>
 
+  联系方式 `898738804@qq.com`
+
   [![github](https://img.shields.io/badge/github-limou3434-red)](https://limou3434.github.io/work-blog-website/)
   [![github](https://img.shields.io/badge/github-limou3434-orange)](https://github.com/limou3434)
   [![gitee](https://img.shields.io/badge/gitee-limou3434-blue)](https://gitee.com/limou3434)
@@ -44,6 +44,6 @@
   ![](https://img.shields.io/badge/性格-沉稳-purple)
   
   ![Visitor Count](https://profile-counter.glitch.me/limou3434/count.svg)
+  
 </div>
-
 
