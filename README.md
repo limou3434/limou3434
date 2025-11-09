@@ -11,12 +11,6 @@
   height="137px"
   src="https://github-readme-stats.vercel.app/api?username=limou3434&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"
   />
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/limou3434/limou3434/93c0500586395e0610dce74c5f77c73bbb360022/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/limou3434/limou3434/93c0500586395e0610dce74c5f77c73bbb360022/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
   
   <p align="center">
     <a href="https://skillicons.dev">
