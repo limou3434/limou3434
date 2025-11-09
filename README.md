@@ -12,14 +12,6 @@
   src="https://github-readme-stats.vercel.app/api?username=limou3434&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"
   />
   
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img
-        src="https://skillicons.dev/icons?i=markdown,latex,vscode,vim,neovim,c,cpp,go,java,python,nodejs,html,css,js,ts,yarn,pnpm,vue,react,qt,cmake,spring,flask,nextjs,redis,mysql,mongodb,linux,ubuntu,git,docker,kubernetes,electron"
-      />
-    </a>
-  </p>
-
   联系方式 `898738804@qq.com`
 
   [![github](https://img.shields.io/badge/github-limou3434-red)](https://limou3434.github.io/work-blog-website/)
