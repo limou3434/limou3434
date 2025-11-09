@@ -48,7 +48,5 @@
   ![个性标签](https://img.shields.io/badge/摄影爱好者-orange)
   ![个性标签](https://img.shields.io/badge/微企创业者-red) 
   
-  ![Visitor Count](https://profile-counter.glitch.me/limou3434/count.svg)
-  
 </div>
 
