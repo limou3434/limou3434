@@ -43,11 +43,10 @@
   ![个性标签](https://img.shields.io/badge/建模痴迷者-yellow)
   ![个性标签](https://img.shields.io/badge/电音发烧者-brown)
   ![个性标签](https://img.shields.io/badge/品类开设者-pink)
-  ![个性标签](https://img.shields.io/badge/流量探索者-orange)
+  ![个性标签](https://img.shields.io/badge/流量探索者-blue)
   ![个性标签](https://img.shields.io/badge/香水研究者-cyan)
   ![个性标签](https://img.shields.io/badge/摄影爱好者-orange)
   ![个性标签](https://img.shields.io/badge/微企创业者-red) 
-  ![个性标签](https://img.shields.io/badge/色彩设计者-blue)
   
   ![Visitor Count](https://profile-counter.glitch.me/limou3434/count.svg)
   
