@@ -21,7 +21,8 @@
   ![个性标签](https://img.shields.io/badge/流量探索者-blue)
   ![个性标签](https://img.shields.io/badge/香水研究者-cyan)
   ![个性标签](https://img.shields.io/badge/摄影爱好者-orange)
-  ![个性标签](https://img.shields.io/badge/微企创业者-red) 
+  ![个性标签](https://img.shields.io/badge/微企创业者-red)
+  ![个性标签](https://img.shields.io/badge/健康烹饪者-teal)
   
 </div>
 
